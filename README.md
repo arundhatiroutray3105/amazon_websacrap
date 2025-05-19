@@ -1,11 +1,8 @@
-# amazon_websacrap
+
 # Web Scraping Using Python (BeautifulSoup)
 
 
-## Introduction: What is Web Scraping?
-Web scraping is a technique to automatically access and extract large amounts of information from a website, which can save a huge amount of time and effort. <br>
 
-In this project we are going to use amazon product (ps5) search result link as the source of our raw data [link](https://www.amazon.in/s?k=playstation+5&sprefix=pla%2Caps%2C464&ref=nb_sb_ss_ts-doa-p_1_3).
 
 
 ## Prerequisites
@@ -13,8 +10,7 @@ In this project we are going to use amazon product (ps5) search result link as t
 2. install BeautifulSoup **```pip install beautifulsoup4```**
 3. install Requests **```pip install requests```**
 4. install Pandas **```pip install pandas```**
-5. the user-agent of your browser. To get the user-agent, just search for "my user agent" on Google and copy the user-agent string.
-6. product search url from amazon
+
 
 
 ## Process of Web Scraping
